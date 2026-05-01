@@ -72,9 +72,5 @@ In a sport where marginal gains define outcomes, XTT provides the tools to syste
 
 ---
 
-If you want this to land with a sponsor, the next step isn’t more words—it’s sharper positioning. I’d suggest adding a single line like:
 
-> *“XTT turns every shot into measurable data, enabling objective coaching in a traditionally subjective sport.”*
-
-If you want, I can also tailor a **Seeed-specific version** that highlights exactly why your hardware stack fits their PCB/PCBA sponsorship criteria—that’s usually the difference between “interesting” and “approved.”
 
